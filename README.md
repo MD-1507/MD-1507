@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there 
 ### I am Mayank Dahotre
 
+
+I am currently a Junior Undergraduate Student at IIT Gandhinagar. majoring in Mechanical Engineering.
+I am interested in Competitive Programming, and Artificial Intelligence in general and Probabilistic Machine Learning in particular
+I like LeetCoding for fun
 <!--
 **MD-1507/MD-1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
